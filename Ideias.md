@@ -23,7 +23,7 @@ R:Felipe
 Criar um gráfico de linha ou área mostrando a evolução do risco de fogo em diferentes datas ou durante períodos específicos (por exemplo, semanas ou meses) para detectar tendências ao longo do tempo.
 R:Thiago
 
-**Boxplot de Precipitação por Estado/Município:**
+**Barras por série temporal de Precipitação por Regiao:**
 Boxplots ajudam a entender a distribuição da precipitação em diferentes estados ou municípios, e como isso pode variar em relação ao risco de fogo.
 R:Alessandra
 

@@ -96,7 +96,7 @@ Critérios:
     - **[Google Colab](https://colab.research.google.com/notebook)** (Não é necessário instalação).
 
 ## ⚙️ Executar o projeto:
-- Fazer o clone do repositório do projeto [Projeto_Queimadas_M3](https://github.com/HyogoMoura/Projeto_Queimada_M3);
+- Fazer o clone do repositório do projeto [Queimadas](https://github.com/alessandracruz/Queimadas);
 - Abrir o arquivo **main.ipynb** na IDE;
 - Selecionar a opção "Run All" para iniciar todas as funções;
 - Pronto! Veja toda a manipulação de dados presente no notebook e a criação de gráficos.
@@ -134,4 +134,3 @@ Python
 - Aumentar a base de dados com todos os meses de 2024;
 - Fazer uma análise com mais países além do Brasil;
 - Análise da perda de área com as queimadas.
-
